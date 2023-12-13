@@ -6,7 +6,7 @@ This is IT Club assignment using Flask Flamework
 <br>
 
 ## Development Period
-* 07 Dec 2022
+* 07 Dec 2023
 <br>
 
 ## Member
